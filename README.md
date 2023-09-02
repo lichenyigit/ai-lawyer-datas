@@ -1,2 +1,2 @@
-# ai-lawyer-datas
-AI律师 数据集
+# china-law-datas
+中国法律 数据集
